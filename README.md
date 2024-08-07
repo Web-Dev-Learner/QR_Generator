@@ -2,13 +2,6 @@
 ## Excited to Announce the Completion of My Latest Project! 
 A QR Code Generator built using React!  Here’s a quick overview of the project:
 
-### Tools & Technologies Used:
-<ul>
-  <li>React</li>
-  <li>CSS</li>
-  <li>Vite</li>
-</ul>
-
 ### Key Features:
 <ul>
   <li>Dynamic QR Code Generation : Easily generate QR codes for any URL.</li>
@@ -25,6 +18,12 @@ A QR Code Generator built using React!  Here’s a quick overview of the project
   <li>Download QR Code : Download the generated QR code to your device.</li>
 </ul>
 
+### Tools & Technologies Used:
+<ul>
+  <li>React</li>
+  <li>CSS</li>
+  <li>Vite</li>
+</ul>
 
 🔗 𝙃𝙚𝙧𝙚'𝙨 𝙩𝙝𝙚 𝙂𝙞𝙩𝙃𝙪𝙗 𝙋𝙖𝙜𝙚𝙨 𝙡𝙞𝙣𝙠 𝙛𝙤𝙧 𝙩𝙝𝙚 𝙡𝙞𝙫𝙚 𝙙𝙚𝙥𝙡𝙤𝙮𝙢𝙚𝙣𝙩 𝙤𝙛 𝙩𝙝𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩. 𝘾𝙝𝙚𝙘𝙠 𝙞𝙩 𝙤𝙪𝙩!😇- - >
 https://web-dev-learner.github.io/QR_Generator/
