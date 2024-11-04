@@ -1,5 +1,4 @@
 
-## Excited to Announce the Completion of My Latest Project! 
 A QR Code Generator built using React!  Here’s a quick overview of the project:
 
 ### Key Features:
